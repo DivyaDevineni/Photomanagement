@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Photomanagement/static/css/main.e8d1d53c.chunk.css",
+    "main.js": "/Photomanagement/static/js/main.98966633.chunk.js",
+    "main.js.map": "/Photomanagement/static/js/main.98966633.chunk.js.map",
+    "runtime-main.js": "/Photomanagement/static/js/runtime-main.5bb16399.js",
+    "runtime-main.js.map": "/Photomanagement/static/js/runtime-main.5bb16399.js.map",
+    "static/js/2.03cc51a9.chunk.js": "/Photomanagement/static/js/2.03cc51a9.chunk.js",
+    "static/js/2.03cc51a9.chunk.js.map": "/Photomanagement/static/js/2.03cc51a9.chunk.js.map",
+    "index.html": "/Photomanagement/index.html",
+    "precache-manifest.f11b968c7f9f2f264837b69f2b5f5186.js": "/Photomanagement/precache-manifest.f11b968c7f9f2f264837b69f2b5f5186.js",
+    "service-worker.js": "/Photomanagement/service-worker.js",
+    "static/css/main.e8d1d53c.chunk.css.map": "/Photomanagement/static/css/main.e8d1d53c.chunk.css.map",
+    "static/js/2.03cc51a9.chunk.js.LICENSE.txt": "/Photomanagement/static/js/2.03cc51a9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5bb16399.js",
+    "static/js/2.03cc51a9.chunk.js",
+    "static/css/main.e8d1d53c.chunk.css",
+    "static/js/main.98966633.chunk.js"
+  ]
+}
